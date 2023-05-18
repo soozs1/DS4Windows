@@ -154,10 +154,10 @@
     <value>Отмена</value>
   </data>
   <data name="CheckUpdateNow" xml:space="preserve">
-    <value>Проверка обновлений</value>
+    <value>Проверить обновление</value>
   </data>
   <data name="CheckUpdateStartup" xml:space="preserve">
-    <value>Проверка обновлений DS4Windows при запуске</value>
+    <value>Проверять обновление DS4Windows при открытии</value>
   </data>
   <data name="Clear" xml:space="preserve">
     <value>Очистить</value>
@@ -516,7 +516,7 @@
     <value>Тип устройства</value>
   </data>
   <data name="DisconnectFromBtWhenStopping" xml:space="preserve">
-    <value>Отключать устройства от BT при остановке</value>
+    <value>Выключить устройства при нажатии кнопки "стоп"</value>
   </data>
   <data name="Dynamic" xml:space="preserve">
     <value>Динамический</value>
